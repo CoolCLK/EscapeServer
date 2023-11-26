@@ -1,0 +1,13 @@
+# 服务端设定
+server:
+  # 服务端地址
+  hostname: 0.0.0.0
+  # 服务端端口
+  port: 39502
+  # 设定每秒最大接受包
+  max-packet-per-second: 600
+
+# 反作弊设定
+anti-cheat:
+  # 是否启用反作弊
+  enable: true

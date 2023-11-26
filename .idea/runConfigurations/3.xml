@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="运行工件" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/build/libs/EscapeServer.jar" />
+    <option name="PROGRAM_PARAMETERS" value="-Dlog4j.skipJansi=false -Dlog4j.level=DEBUG" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\mrche\IdeaProjects\EscapeServer\run" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="构建并运行工件" type="CompoundRunConfigurationType">
+    <toRun name="构建" type="GradleRunConfiguration" />
+    <toRun name="运行工件" type="JarApplication" />
+    <method v="2" />
+  </configuration>
+</component>
